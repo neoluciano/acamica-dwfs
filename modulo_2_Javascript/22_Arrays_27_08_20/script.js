@@ -83,7 +83,7 @@ shopping_list.pop();
 console.log("Lista de compras tras pop: " + shopping_list);
 
 
-/*JOIN*/
+/*JOIN, agregar un simbolo entre elemento y elemento del array al imprimirlo*/
 let months = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
 console.log("Meses unidos con join : " + months.join(' - '));
 /*LENGTH*/
