@@ -1,0 +1,13 @@
+input,
+button {
+    display: block;
+    margin-bottom: 3px;
+}
+
+.ocultar {
+    display: none;
+}
+
+.mostrar {
+    display: block;
+}
